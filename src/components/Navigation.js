@@ -34,13 +34,13 @@ export default class Navigation extends Component {
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                 <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
                 <ul id="nav" className="nav">
-                    <li className="current"><a href="http://localhost:3000/">Home</a></li>
-                    <li><a href="http://localhost:3000/#about">About</a></li>
-                    <li><a href="http://localhost:3000/#resume">Resume</a></li>
-                    <li><a href="http://localhost:3000/#portfolio">Works</a></li>
+                    <li className="current"><a href="https://ishanrandika.herokuapp.com/#home">Home</a></li>
+                    <li><a href="https://ishanrandika.herokuapp.com/#about">About</a></li>
+                    <li><a href="https://ishanrandika.herokuapp.com/#resume">Resume</a></li>
+                    <li><a href="https://ishanrandika.herokuapp.com/#portfolio">Works</a></li>
                     {/*<News resumeData={resumeData}/>*/}
-                    <li><a href="http://localhost:3000/#testimonials">News</a></li>
-                    <li><a href="http://localhost:3000/#contact">Contact</a></li>
+                    <li><a href="https://ishanrandika.herokuapp.com/#testimonials">News</a></li>
+                    <li><a href="https://ishanrandika.herokuapp.com/#contact">Contact</a></li>
                 </ul>
             </nav>
         );
